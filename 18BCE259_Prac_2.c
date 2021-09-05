@@ -40,7 +40,11 @@ void S(){
         match('+');
         match('i');
     }
-    
+    else
+    {
+        fail = 1;
+        printf("Error");
+    }    
 }
 
 int main(){
