@@ -2,3 +2,5 @@
 lex.yy.c
 *.out
 .vscode
+*.tab.c
+*.tab.h
