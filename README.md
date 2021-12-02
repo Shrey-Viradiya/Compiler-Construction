@@ -10,3 +10,5 @@
 | 6 | _Generate 3 address code._ | [18BCE259_Prac_6.l](./18BCE259_Prac_6.l) [18BCE259_Prac_6.y](./18BCE259_Prac_6.y) |
 | 7 | _To implement grammar rules for control statements, and Loop control._ | [18BCE259_Prac_7.l](./18BCE259_Prac_7.l) [18BCE259_Prac_7.y](./18BCE259_Prac_7.y) |
 | 8 | _To implement a Type Checker._ | [18BCE259_Prac_8.c](./18BCE259_Prac_8.c) |
+| 9 | _3 adress code generator._ | [18BCE259_Prac_9.c](./18BCE259_Prac_9.c) |
+| 10 | _Optimize the code._ | [18BCE259_Prac_10.c](./18BCE259_Prac_10.c) |
